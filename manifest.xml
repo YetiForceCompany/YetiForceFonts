@@ -1,0 +1,1737 @@
+<?xml version='1.0'?>
+<module>
+	<name>YetiForce Fonts</name>
+	<label>YetiForce Fonts</label>
+	<type>font</type>
+	<version>1</version>
+	<fonts>
+		<font>
+			<family>Noto Sans Condensed</family>
+			<weight>100</weight>
+			<style>normal</style>
+			<file>NotoSans-CondensedThin.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans Condensed</family>
+			<weight>100</weight>
+			<style>italic</style>
+			<file>NotoSans-CondensedThinItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans Condensed</family>
+			<weight>200</weight>
+			<style>normal</style>
+			<file>NotoSans-CondensedExtraLight.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans Condensed</family>
+			<weight>200</weight>
+			<style>italic</style>
+			<file>NotoSans-CondensedExtraLightItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans Condensed</family>
+			<weight>300</weight>
+			<style>normal</style>
+			<file>NotoSans-CondensedLight.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans Condensed</family>
+			<weight>300</weight>
+			<style>italic</style>
+			<file>NotoSans-CondensedLightItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans Condensed</family>
+			<weight>400</weight>
+			<style>normal</style>
+			<file>NotoSans-Condensed.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans Condensed</family>
+			<weight>400</weight>
+			<style>italic</style>
+			<file>NotoSans-CondensedItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans Condensed</family>
+			<weight>500</weight>
+			<style>normal</style>
+			<file>NotoSans-CondensedMedium.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans Condensed</family>
+			<weight>500</weight>
+			<style>italic</style>
+			<file>NotoSans-CondensedMediumItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans Condensed</family>
+			<weight>600</weight>
+			<style>normal</style>
+			<file>NotoSans-CondensedSemiBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans Condensed</family>
+			<weight>600</weight>
+			<style>italic</style>
+			<file>NotoSans-CondensedSemiBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans Condensed</family>
+			<weight>700</weight>
+			<style>normal</style>
+			<file>NotoSans-CondensedBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans Condensed</family>
+			<weight>700</weight>
+			<style>italic</style>
+			<file>NotoSans-CondensedBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans Condensed</family>
+			<weight>800</weight>
+			<style>normal</style>
+			<file>NotoSans-CondensedExtraBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans Condensed</family>
+			<weight>800</weight>
+			<style>italic</style>
+			<file>NotoSans-CondensedExtraBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans Condensed</family>
+			<weight>900</weight>
+			<style>normal</style>
+			<file>NotoSans-CondensedBlack.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans Condensed</family>
+			<weight>900</weight>
+			<style>italic</style>
+			<file>NotoSans-CondensedBlackItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans SemiCondensed</family>
+			<weight>100</weight>
+			<style>normal</style>
+			<file>NotoSans-SemiCondensedThin.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans SemiCondensed</family>
+			<weight>100</weight>
+			<style>italic</style>
+			<file>NotoSans-SemiCondensedThinItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans SemiCondensed</family>
+			<weight>200</weight>
+			<style>normal</style>
+			<file>NotoSans-SemiCondensedExtraLight.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans SemiCondensed</family>
+			<weight>200</weight>
+			<style>italic</style>
+			<file>NotoSans-SemiCondensedExtraLightItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans SemiCondensed</family>
+			<weight>300</weight>
+			<style>normal</style>
+			<file>NotoSans-SemiCondensedLight.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans SemiCondensed</family>
+			<weight>300</weight>
+			<style>italic</style>
+			<file>NotoSans-SemiCondensedLightItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans SemiCondensed</family>
+			<weight>400</weight>
+			<style>normal</style>
+			<file>NotoSans-SemiCondensed.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans SemiCondensed</family>
+			<weight>400</weight>
+			<style>italic</style>
+			<file>NotoSans-SemiCondensedItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans SemiCondensed</family>
+			<weight>500</weight>
+			<style>normal</style>
+			<file>NotoSans-SemiCondensedMedium.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans SemiCondensed</family>
+			<weight>500</weight>
+			<style>italic</style>
+			<file>NotoSans-SemiCondensedMediumItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans SemiCondensed</family>
+			<weight>600</weight>
+			<style>normal</style>
+			<file>NotoSans-SemiCondensedSemiBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans SemiCondensed</family>
+			<weight>600</weight>
+			<style>italic</style>
+			<file>NotoSans-SemiCondensedSemiBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans SemiCondensed</family>
+			<weight>700</weight>
+			<style>normal</style>
+			<file>NotoSans-SemiCondensedBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans SemiCondensed</family>
+			<weight>700</weight>
+			<style>italic</style>
+			<file>NotoSans-SemiCondensedBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans SemiCondensed</family>
+			<weight>800</weight>
+			<style>normal</style>
+			<file>NotoSans-SemiCondensedExtraBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans SemiCondensed</family>
+			<weight>800</weight>
+			<style>italic</style>
+			<file>NotoSans-SemiCondensedExtraBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans SemiCondensed</family>
+			<weight>900</weight>
+			<style>normal</style>
+			<file>NotoSans-SemiCondensedBlack.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans SemiCondensed</family>
+			<weight>900</weight>
+			<style>italic</style>
+			<file>NotoSans-SemiCondensedBlackItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans ExtraCondensed</family>
+			<weight>100</weight>
+			<style>normal</style>
+			<file>NotoSans-ExtraCondensedThin.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans ExtraCondensed</family>
+			<weight>100</weight>
+			<style>italic</style>
+			<file>NotoSans-ExtraCondensedThinItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans ExtraCondensed</family>
+			<weight>200</weight>
+			<style>normal</style>
+			<file>NotoSans-ExtraCondensedExtraLight.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans ExtraCondensed</family>
+			<weight>200</weight>
+			<style>italic</style>
+			<file>NotoSans-ExtraCondensedExtraLightItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans ExtraCondensed</family>
+			<weight>300</weight>
+			<style>normal</style>
+			<file>NotoSans-ExtraCondensedLight.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans ExtraCondensed</family>
+			<weight>300</weight>
+			<style>italic</style>
+			<file>NotoSans-ExtraCondensedLightItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans ExtraCondensed</family>
+			<weight>400</weight>
+			<style>normal</style>
+			<file>NotoSans-ExtraCondensed.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans ExtraCondensed</family>
+			<weight>400</weight>
+			<style>italic</style>
+			<file>NotoSans-ExtraCondensedItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans ExtraCondensed</family>
+			<weight>500</weight>
+			<style>normal</style>
+			<file>NotoSans-ExtraCondensedMedium.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans ExtraCondensed</family>
+			<weight>500</weight>
+			<style>italic</style>
+			<file>NotoSans-ExtraCondensedMediumItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans ExtraCondensed</family>
+			<weight>600</weight>
+			<style>normal</style>
+			<file>NotoSans-ExtraCondensedSemiBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans ExtraCondensed</family>
+			<weight>600</weight>
+			<style>italic</style>
+			<file>NotoSans-ExtraCondensedSemiBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans ExtraCondensed</family>
+			<weight>700</weight>
+			<style>normal</style>
+			<file>NotoSans-ExtraCondensedBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans ExtraCondensed</family>
+			<weight>700</weight>
+			<style>italic</style>
+			<file>NotoSans-ExtraCondensedBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans ExtraCondensed</family>
+			<weight>800</weight>
+			<style>normal</style>
+			<file>NotoSans-ExtraCondensedExtraBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans ExtraCondensed</family>
+			<weight>800</weight>
+			<style>italic</style>
+			<file>NotoSans-ExtraCondensedExtraBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans ExtraCondensed</family>
+			<weight>900</weight>
+			<style>normal</style>
+			<file>NotoSans-ExtraCondensedBlack.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans ExtraCondensed</family>
+			<weight>900</weight>
+			<style>italic</style>
+			<file>NotoSans-ExtraCondensedBlackItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Mono</family>
+			<weight>100</weight>
+			<style>normal</style>
+			<file>NotoMono-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Noto Mono</family>
+			<weight>100</weight>
+			<style>italic</style>
+			<file>NotoMono-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Noto Mono</family>
+			<weight>200</weight>
+			<style>normal</style>
+			<file>NotoMono-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Noto Mono</family>
+			<weight>200</weight>
+			<style>italic</style>
+			<file>NotoMono-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Noto Mono</family>
+			<weight>300</weight>
+			<style>normal</style>
+			<file>NotoMono-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Noto Mono</family>
+			<weight>300</weight>
+			<style>italic</style>
+			<file>NotoMono-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Noto Mono</family>
+			<weight>400</weight>
+			<style>normal</style>
+			<file>NotoMono-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Noto Mono</family>
+			<weight>400</weight>
+			<style>italic</style>
+			<file>NotoMono-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Noto Mono</family>
+			<weight>500</weight>
+			<style>normal</style>
+			<file>NotoMono-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Noto Mono</family>
+			<weight>500</weight>
+			<style>italic</style>
+			<file>NotoMono-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Noto Mono</family>
+			<weight>600</weight>
+			<style>normal</style>
+			<file>NotoMono-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Noto Mono</family>
+			<weight>600</weight>
+			<style>italic</style>
+			<file>NotoMono-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Noto Mono</family>
+			<weight>700</weight>
+			<style>normal</style>
+			<file>NotoMono-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Noto Mono</family>
+			<weight>700</weight>
+			<style>italic</style>
+			<file>NotoMono-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Noto Mono</family>
+			<weight>800</weight>
+			<style>normal</style>
+			<file>NotoMono-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Noto Mono</family>
+			<weight>800</weight>
+			<style>italic</style>
+			<file>NotoMono-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Noto Mono</family>
+			<weight>900</weight>
+			<style>normal</style>
+			<file>NotoMono-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Noto Mono</family>
+			<weight>900</weight>
+			<style>italic</style>
+			<file>NotoMono-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans</family>
+			<weight>100</weight>
+			<style>normal</style>
+			<file>NotoSans-Thin.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans</family>
+			<weight>100</weight>
+			<style>italic</style>
+			<file>NotoSans-ThinItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans</family>
+			<weight>200</weight>
+			<style>normal</style>
+			<file>NotoSans-ExtraLight.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans</family>
+			<weight>200</weight>
+			<style>italic</style>
+			<file>NotoSans-ExtraLightItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans</family>
+			<weight>300</weight>
+			<style>normal</style>
+			<file>NotoSans-Light.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans</family>
+			<weight>300</weight>
+			<style>italic</style>
+			<file>NotoSans-LightItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans</family>
+			<weight>400</weight>
+			<style>normal</style>
+			<file>NotoSans-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans</family>
+			<weight>400</weight>
+			<style>italic</style>
+			<file>NotoSans-Italic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans</family>
+			<weight>500</weight>
+			<style>normal</style>
+			<file>NotoSans-Medium.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans</family>
+			<weight>500</weight>
+			<style>italic</style>
+			<file>NotoSans-MediumItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans</family>
+			<weight>600</weight>
+			<style>normal</style>
+			<file>NotoSans-SemiBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans</family>
+			<weight>600</weight>
+			<style>italic</style>
+			<file>NotoSans-SemiBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans</family>
+			<weight>700</weight>
+			<style>normal</style>
+			<file>NotoSans-Bold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans</family>
+			<weight>700</weight>
+			<style>italic</style>
+			<file>NotoSans-BoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans</family>
+			<weight>800</weight>
+			<style>normal</style>
+			<file>NotoSans-ExtraBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans</family>
+			<weight>800</weight>
+			<style>italic</style>
+			<file>NotoSans-ExtraBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans</family>
+			<weight>900</weight>
+			<style>normal</style>
+			<file>NotoSans-Black.ttf</file>
+		</font>
+		<font>
+			<family>Noto Sans</family>
+			<weight>900</weight>
+			<style>italic</style>
+			<file>NotoSans-BlackItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif SemiCondensed</family>
+			<weight>100</weight>
+			<style>normal</style>
+			<file>NotoSerif-SemiCondensedThin.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif SemiCondensed</family>
+			<weight>100</weight>
+			<style>italic</style>
+			<file>NotoSerif-SemiCondensedThinItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif SemiCondensed</family>
+			<weight>200</weight>
+			<style>normal</style>
+			<file>NotoSerif-SemiCondensedExtraLight.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif SemiCondensed</family>
+			<weight>200</weight>
+			<style>italic</style>
+			<file>NotoSerif-SemiCondensedExtraLightItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif SemiCondensed</family>
+			<weight>300</weight>
+			<style>normal</style>
+			<file>NotoSerif-SemiCondensedLight.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif SemiCondensed</family>
+			<weight>300</weight>
+			<style>italic</style>
+			<file>NotoSerif-SemiCondensedLightItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif SemiCondensed</family>
+			<weight>400</weight>
+			<style>normal</style>
+			<file>NotoSerif-SemiCondensed.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif SemiCondensed</family>
+			<weight>400</weight>
+			<style>italic</style>
+			<file>NotoSerif-SemiCondensedItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif SemiCondensed</family>
+			<weight>500</weight>
+			<style>normal</style>
+			<file>NotoSerif-SemiCondensedMedium.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif SemiCondensed</family>
+			<weight>500</weight>
+			<style>italic</style>
+			<file>NotoSerif-SemiCondensedMediumItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif SemiCondensed</family>
+			<weight>600</weight>
+			<style>normal</style>
+			<file>NotoSerif-SemiCondensedSemiBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif SemiCondensed</family>
+			<weight>600</weight>
+			<style>italic</style>
+			<file>NotoSerif-SemiCondensedSemiBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif SemiCondensed</family>
+			<weight>700</weight>
+			<style>normal</style>
+			<file>NotoSerif-SemiCondensedBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif SemiCondensed</family>
+			<weight>700</weight>
+			<style>italic</style>
+			<file>NotoSerif-SemiCondensedBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif SemiCondensed</family>
+			<weight>800</weight>
+			<style>normal</style>
+			<file>NotoSerif-SemiCondensedExtraBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif SemiCondensed</family>
+			<weight>800</weight>
+			<style>italic</style>
+			<file>NotoSerif-SemiCondensedExtraBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif SemiCondensed</family>
+			<weight>900</weight>
+			<style>normal</style>
+			<file>NotoSerif-SemiCondensedBlack.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif SemiCondensed</family>
+			<weight>900</weight>
+			<style>italic</style>
+			<file>NotoSerif-SemiCondensedBlackItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif ExtraCondensed</family>
+			<weight>100</weight>
+			<style>normal</style>
+			<file>NotoSerif-ExtraCondensedThin.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif ExtraCondensed</family>
+			<weight>100</weight>
+			<style>italic</style>
+			<file>NotoSerif-ExtraCondensedThinItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif ExtraCondensed</family>
+			<weight>200</weight>
+			<style>normal</style>
+			<file>NotoSerif-ExtraCondensedExtraLight.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif ExtraCondensed</family>
+			<weight>200</weight>
+			<style>italic</style>
+			<file>NotoSerif-ExtraCondensedExtraLightItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif ExtraCondensed</family>
+			<weight>300</weight>
+			<style>normal</style>
+			<file>NotoSerif-ExtraCondensedLight.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif ExtraCondensed</family>
+			<weight>300</weight>
+			<style>italic</style>
+			<file>NotoSerif-ExtraCondensedLightItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif ExtraCondensed</family>
+			<weight>400</weight>
+			<style>normal</style>
+			<file>NotoSerif-ExtraCondensed.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif ExtraCondensed</family>
+			<weight>400</weight>
+			<style>italic</style>
+			<file>NotoSerif-ExtraCondensedItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif ExtraCondensed</family>
+			<weight>500</weight>
+			<style>normal</style>
+			<file>NotoSerif-ExtraCondensedMedium.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif ExtraCondensed</family>
+			<weight>500</weight>
+			<style>italic</style>
+			<file>NotoSerif-ExtraCondensedMediumItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif ExtraCondensed</family>
+			<weight>600</weight>
+			<style>normal</style>
+			<file>NotoSerif-ExtraCondensedSemiBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif ExtraCondensed</family>
+			<weight>600</weight>
+			<style>italic</style>
+			<file>NotoSerif-ExtraCondensedSemiBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif ExtraCondensed</family>
+			<weight>700</weight>
+			<style>normal</style>
+			<file>NotoSerif-ExtraCondensedBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif ExtraCondensed</family>
+			<weight>700</weight>
+			<style>italic</style>
+			<file>NotoSerif-ExtraCondensedBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif ExtraCondensed</family>
+			<weight>800</weight>
+			<style>normal</style>
+			<file>NotoSerif-ExtraCondensedExtraBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif ExtraCondensed</family>
+			<weight>800</weight>
+			<style>italic</style>
+			<file>NotoSerif-ExtraCondensedExtraBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif ExtraCondensed</family>
+			<weight>900</weight>
+			<style>normal</style>
+			<file>NotoSerif-ExtraCondensedBlack.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif ExtraCondensed</family>
+			<weight>900</weight>
+			<style>italic</style>
+			<file>NotoSerif-ExtraCondensedBlackItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif Condensed</family>
+			<weight>100</weight>
+			<style>normal</style>
+			<file>NotoSerif-CondensedThin.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif Condensed</family>
+			<weight>100</weight>
+			<style>italic</style>
+			<file>NotoSerif-CondensedThinItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif Condensed</family>
+			<weight>200</weight>
+			<style>normal</style>
+			<file>NotoSerif-CondensedExtraLight.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif Condensed</family>
+			<weight>200</weight>
+			<style>italic</style>
+			<file>NotoSerif-CondensedExtraLightItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif Condensed</family>
+			<weight>300</weight>
+			<style>normal</style>
+			<file>NotoSerif-CondensedLight.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif Condensed</family>
+			<weight>300</weight>
+			<style>italic</style>
+			<file>NotoSerif-CondensedLightItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif Condensed</family>
+			<weight>400</weight>
+			<style>normal</style>
+			<file>NotoSerif-Condensed.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif Condensed</family>
+			<weight>400</weight>
+			<style>italic</style>
+			<file>NotoSerif-CondensedItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif Condensed</family>
+			<weight>500</weight>
+			<style>normal</style>
+			<file>NotoSerif-CondensedMedium.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif Condensed</family>
+			<weight>500</weight>
+			<style>italic</style>
+			<file>NotoSerif-CondensedMediumItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif Condensed</family>
+			<weight>600</weight>
+			<style>normal</style>
+			<file>NotoSerif-CondensedSemiBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif Condensed</family>
+			<weight>600</weight>
+			<style>italic</style>
+			<file>NotoSerif-CondensedSemiBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif Condensed</family>
+			<weight>700</weight>
+			<style>normal</style>
+			<file>NotoSerif-CondensedBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif Condensed</family>
+			<weight>700</weight>
+			<style>italic</style>
+			<file>NotoSerif-CondensedBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif Condensed</family>
+			<weight>800</weight>
+			<style>normal</style>
+			<file>NotoSerif-CondensedExtraBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif Condensed</family>
+			<weight>800</weight>
+			<style>italic</style>
+			<file>NotoSerif-CondensedExtraBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif Condensed</family>
+			<weight>900</weight>
+			<style>normal</style>
+			<file>NotoSerif-CondensedBlack.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif Condensed</family>
+			<weight>900</weight>
+			<style>italic</style>
+			<file>NotoSerif-CondensedBlackItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif</family>
+			<weight>100</weight>
+			<style>normal</style>
+			<file>NotoSerif-Thin.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif</family>
+			<weight>100</weight>
+			<style>italic</style>
+			<file>NotoSerif-ThinItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif</family>
+			<weight>200</weight>
+			<style>normal</style>
+			<file>NotoSerif-ExtraLight.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif</family>
+			<weight>200</weight>
+			<style>italic</style>
+			<file>NotoSerif-ExtraLightItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif</family>
+			<weight>300</weight>
+			<style>normal</style>
+			<file>NotoSerif-Light.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif</family>
+			<weight>300</weight>
+			<style>italic</style>
+			<file>NotoSerif-LightItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif</family>
+			<weight>400</weight>
+			<style>normal</style>
+			<file>NotoSerif-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif</family>
+			<weight>400</weight>
+			<style>italic</style>
+			<file>NotoSerif-Italic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif</family>
+			<weight>500</weight>
+			<style>normal</style>
+			<file>NotoSerif-Medium.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif</family>
+			<weight>500</weight>
+			<style>italic</style>
+			<file>NotoSerif-MediumItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif</family>
+			<weight>600</weight>
+			<style>normal</style>
+			<file>NotoSerif-SemiBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif</family>
+			<weight>600</weight>
+			<style>italic</style>
+			<file>NotoSerif-SemiBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif</family>
+			<weight>700</weight>
+			<style>normal</style>
+			<file>NotoSerif-Bold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif</family>
+			<weight>700</weight>
+			<style>italic</style>
+			<file>NotoSerif-BoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif</family>
+			<weight>800</weight>
+			<style>normal</style>
+			<file>NotoSerif-ExtraBold.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif</family>
+			<weight>800</weight>
+			<style>italic</style>
+			<file>NotoSerif-ExtraBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif</family>
+			<weight>900</weight>
+			<style>normal</style>
+			<file>NotoSerif-Black.ttf</file>
+		</font>
+		<font>
+			<family>Noto Serif</family>
+			<weight>900</weight>
+			<style>italic</style>
+			<file>NotoSerif-BlackItalic.ttf</file>
+		</font>
+		<font>
+			<family>Source Code Pro</family>
+			<weight>100</weight>
+			<style>normal</style>
+			<file>SourceCodePro-ExtraLight.ttf</file>
+		</font>
+		<font>
+			<family>Source Code Pro</family>
+			<weight>100</weight>
+			<style>italic</style>
+			<file>SourceCodePro-ExtraLight.ttf</file>
+		</font>
+		<font>
+			<family>Source Code Pro</family>
+			<weight>200</weight>
+			<style>normal</style>
+			<file>SourceCodePro-ExtraLight.ttf</file>
+		</font>
+		<font>
+			<family>Source Code Pro</family>
+			<weight>200</weight>
+			<style>italic</style>
+			<file>SourceCodePro-ExtraLight.ttf</file>
+		</font>
+		<font>
+			<family>Source Code Pro</family>
+			<weight>300</weight>
+			<style>normal</style>
+			<file>SourceCodePro-Light.ttf</file>
+		</font>
+		<font>
+			<family>Source Code Pro</family>
+			<weight>300</weight>
+			<style>italic</style>
+			<file>SourceCodePro-Light.ttf</file>
+		</font>
+		<font>
+			<family>Source Code Pro</family>
+			<weight>400</weight>
+			<style>normal</style>
+			<file>SourceCodePro-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Source Code Pro</family>
+			<weight>400</weight>
+			<style>italic</style>
+			<file>SourceCodePro-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Source Code Pro</family>
+			<weight>500</weight>
+			<style>normal</style>
+			<file>SourceCodePro-Medium.ttf</file>
+		</font>
+		<font>
+			<family>Source Code Pro</family>
+			<weight>500</weight>
+			<style>italic</style>
+			<file>SourceCodePro-Medium.ttf</file>
+		</font>
+		<font>
+			<family>Source Code Pro</family>
+			<weight>600</weight>
+			<style>normal</style>
+			<file>SourceCodePro-Semibold.ttf</file>
+		</font>
+		<font>
+			<family>Source Code Pro</family>
+			<weight>600</weight>
+			<style>italic</style>
+			<file>SourceCodePro-Semibold.ttf</file>
+		</font>
+		<font>
+			<family>Source Code Pro</family>
+			<weight>700</weight>
+			<style>normal</style>
+			<file>SourceCodePro-Bold.ttf</file>
+		</font>
+		<font>
+			<family>Source Code Pro</family>
+			<weight>700</weight>
+			<style>italic</style>
+			<file>SourceCodePro-Bold.ttf</file>
+		</font>
+		<font>
+			<family>Source Code Pro</family>
+			<weight>800</weight>
+			<style>normal</style>
+			<file>SourceCodePro-Bold.ttf</file>
+		</font>
+		<font>
+			<family>Source Code Pro</family>
+			<weight>800</weight>
+			<style>italic</style>
+			<file>SourceCodePro-Bold.ttf</file>
+		</font>
+		<font>
+			<family>Source Code Pro</family>
+			<weight>900</weight>
+			<style>normal</style>
+			<file>SourceCodePro-Black.ttf</file>
+		</font>
+		<font>
+			<family>Source Code Pro</family>
+			<weight>900</weight>
+			<style>italic</style>
+			<file>SourceCodePro-Black.ttf</file>
+		</font>
+		<font>
+			<family>Source Serif Pro</family>
+			<weight>100</weight>
+			<style>normal</style>
+			<file>SourceSerifPro-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Source Serif Pro</family>
+			<weight>100</weight>
+			<style>italic</style>
+			<file>SourceSerifPro-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Source Serif Pro</family>
+			<weight>200</weight>
+			<style>normal</style>
+			<file>SourceSerifPro-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Source Serif Pro</family>
+			<weight>200</weight>
+			<style>italic</style>
+			<file>SourceSerifPro-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Source Serif Pro</family>
+			<weight>300</weight>
+			<style>normal</style>
+			<file>SourceSerifPro-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Source Serif Pro</family>
+			<weight>300</weight>
+			<style>italic</style>
+			<file>SourceSerifPro-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Source Serif Pro</family>
+			<weight>400</weight>
+			<style>normal</style>
+			<file>SourceSerifPro-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Source Serif Pro</family>
+			<weight>400</weight>
+			<style>italic</style>
+			<file>SourceSerifPro-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Source Serif Pro</family>
+			<weight>500</weight>
+			<style>normal</style>
+			<file>SourceSerifPro-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Source Serif Pro</family>
+			<weight>500</weight>
+			<style>italic</style>
+			<file>SourceSerifPro-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Source Serif Pro</family>
+			<weight>600</weight>
+			<style>normal</style>
+			<file>SourceSerifPro-Semibold.ttf</file>
+		</font>
+		<font>
+			<family>Source Serif Pro</family>
+			<weight>600</weight>
+			<style>italic</style>
+			<file>SourceSerifPro-Semibold.ttf</file>
+		</font>
+		<font>
+			<family>Source Serif Pro</family>
+			<weight>700</weight>
+			<style>normal</style>
+			<file>SourceSerifPro-Bold.ttf</file>
+		</font>
+		<font>
+			<family>Source Serif Pro</family>
+			<weight>700</weight>
+			<style>italic</style>
+			<file>SourceSerifPro-Bold.ttf</file>
+		</font>
+		<font>
+			<family>Source Serif Pro</family>
+			<weight>800</weight>
+			<style>normal</style>
+			<file>SourceSerifPro-Bold.ttf</file>
+		</font>
+		<font>
+			<family>Source Serif Pro</family>
+			<weight>800</weight>
+			<style>italic</style>
+			<file>SourceSerifPro-Bold.ttf</file>
+		</font>
+		<font>
+			<family>Source Serif Pro</family>
+			<weight>900</weight>
+			<style>normal</style>
+			<file>SourceSerifPro-Bold.ttf</file>
+		</font>
+		<font>
+			<family>Source Serif Pro</family>
+			<weight>900</weight>
+			<style>italic</style>
+			<file>SourceSerifPro-Bold.ttf</file>
+		</font>
+		<font>
+			<family>Source Sans Pro</family>
+			<weight>100</weight>
+			<style>normal</style>
+			<file>SourceSansPro-ExtraLight.ttf</file>
+		</font>
+		<font>
+			<family>Source Sans Pro</family>
+			<weight>100</weight>
+			<style>italic</style>
+			<file>SourceSansPro-ExtraLightItalic.ttf</file>
+		</font>
+		<font>
+			<family>Source Sans Pro</family>
+			<weight>200</weight>
+			<style>normal</style>
+			<file>SourceSansPro-ExtraLight.ttf</file>
+		</font>
+		<font>
+			<family>Source Sans Pro</family>
+			<weight>200</weight>
+			<style>italic</style>
+			<file>SourceSansPro-ExtraLightItalic.ttf</file>
+		</font>
+		<font>
+			<family>Source Sans Pro</family>
+			<weight>300</weight>
+			<style>normal</style>
+			<file>SourceSansPro-Light.ttf</file>
+		</font>
+		<font>
+			<family>Source Sans Pro</family>
+			<weight>300</weight>
+			<style>italic</style>
+			<file>SourceSansPro-LightItalic.ttf</file>
+		</font>
+		<font>
+			<family>Source Sans Pro</family>
+			<weight>400</weight>
+			<style>normal</style>
+			<file>SourceSansPro-Regular.ttf</file>
+		</font>
+		<font>
+			<family>Source Sans Pro</family>
+			<weight>400</weight>
+			<style>italic</style>
+			<file>SourceSansPro-Italic.ttf</file>
+		</font>
+		<font>
+			<family>Source Sans Pro</family>
+			<weight>500</weight>
+			<style>normal</style>
+			<file>SourceSansPro-SemiBold.ttf</file>
+		</font>
+		<font>
+			<family>Source Sans Pro</family>
+			<weight>500</weight>
+			<style>italic</style>
+			<file>SourceSansPro-SemiBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Source Sans Pro</family>
+			<weight>600</weight>
+			<style>normal</style>
+			<file>SourceSansPro-SemiBold.ttf</file>
+		</font>
+		<font>
+			<family>Source Sans Pro</family>
+			<weight>600</weight>
+			<style>italic</style>
+			<file>SourceSansPro-SemiBoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Source Sans Pro</family>
+			<weight>700</weight>
+			<style>normal</style>
+			<file>SourceSansPro-Bold.ttf</file>
+		</font>
+		<font>
+			<family>Source Sans Pro</family>
+			<weight>700</weight>
+			<style>italic</style>
+			<file>SourceSansPro-BoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Source Sans Pro</family>
+			<weight>800</weight>
+			<style>normal</style>
+			<file>SourceSansPro-Bold.ttf</file>
+		</font>
+		<font>
+			<family>Source Sans Pro</family>
+			<weight>800</weight>
+			<style>italic</style>
+			<file>SourceSansPro-BoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>Source Sans Pro</family>
+			<weight>900</weight>
+			<style>normal</style>
+			<file>SourceSansPro-Black.ttf</file>
+		</font>
+		<font>
+			<family>Source Sans Pro</family>
+			<weight>900</weight>
+			<style>italic</style>
+			<file>SourceSansPro-BlackItalic.ttf</file>
+		</font>
+		<font>
+			<family>PT Serif</family>
+			<weight>100</weight>
+			<style>normal</style>
+			<file>PT_Serif-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Serif</family>
+			<weight>100</weight>
+			<style>italic</style>
+			<file>PT_Serif-Italic.ttf</file>
+		</font>
+		<font>
+			<family>PT Serif</family>
+			<weight>200</weight>
+			<style>normal</style>
+			<file>PT_Serif-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Serif</family>
+			<weight>200</weight>
+			<style>italic</style>
+			<file>PT_Serif-Italic.ttf</file>
+		</font>
+		<font>
+			<family>PT Serif</family>
+			<weight>300</weight>
+			<style>normal</style>
+			<file>PT_Serif-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Serif</family>
+			<weight>300</weight>
+			<style>italic</style>
+			<file>PT_Serif-Italic.ttf</file>
+		</font>
+		<font>
+			<family>PT Serif</family>
+			<weight>400</weight>
+			<style>normal</style>
+			<file>PT_Serif-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Serif</family>
+			<weight>400</weight>
+			<style>italic</style>
+			<file>PT_Serif-Italic.ttf</file>
+		</font>
+		<font>
+			<family>PT Serif</family>
+			<weight>500</weight>
+			<style>normal</style>
+			<file>PT_Serif-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Serif</family>
+			<weight>500</weight>
+			<style>italic</style>
+			<file>PT_Serif-Italic.ttf</file>
+		</font>
+		<font>
+			<family>PT Serif</family>
+			<weight>600</weight>
+			<style>normal</style>
+			<file>PT_Serif-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Serif</family>
+			<weight>600</weight>
+			<style>italic</style>
+			<file>PT_Serif-Italic.ttf</file>
+		</font>
+		<font>
+			<family>PT Serif</family>
+			<weight>700</weight>
+			<style>normal</style>
+			<file>PT_Serif-Bold.ttf</file>
+		</font>
+		<font>
+			<family>PT Serif</family>
+			<weight>700</weight>
+			<style>italic</style>
+			<file>PT_Serif-BoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>PT Serif</family>
+			<weight>800</weight>
+			<style>normal</style>
+			<file>PT_Serif-Bold.ttf</file>
+		</font>
+		<font>
+			<family>PT Serif</family>
+			<weight>800</weight>
+			<style>italic</style>
+			<file>PT_Serif-BoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>PT Serif</family>
+			<weight>900</weight>
+			<style>normal</style>
+			<file>PT_Serif-Bold.ttf</file>
+		</font>
+		<font>
+			<family>PT Serif</family>
+			<weight>900</weight>
+			<style>italic</style>
+			<file>PT_Serif-BoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans Narrow</family>
+			<weight>100</weight>
+			<style>normal</style>
+			<file>PT_Sans-Narrow-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans Narrow</family>
+			<weight>100</weight>
+			<style>italic</style>
+			<file>PT_Sans-Narrow-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans Narrow</family>
+			<weight>200</weight>
+			<style>normal</style>
+			<file>PT_Sans-Narrow-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans Narrow</family>
+			<weight>200</weight>
+			<style>italic</style>
+			<file>PT_Sans-Narrow-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans Narrow</family>
+			<weight>300</weight>
+			<style>normal</style>
+			<file>PT_Sans-Narrow-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans Narrow</family>
+			<weight>300</weight>
+			<style>italic</style>
+			<file>PT_Sans-Narrow-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans Narrow</family>
+			<weight>400</weight>
+			<style>normal</style>
+			<file>PT_Sans-Narrow-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans Narrow</family>
+			<weight>400</weight>
+			<style>italic</style>
+			<file>PT_Sans-Narrow-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans Narrow</family>
+			<weight>500</weight>
+			<style>normal</style>
+			<file>PT_Sans-Narrow-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans Narrow</family>
+			<weight>500</weight>
+			<style>italic</style>
+			<file>PT_Sans-Narrow-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans Narrow</family>
+			<weight>600</weight>
+			<style>normal</style>
+			<file>PT_Sans-Narrow-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans Narrow</family>
+			<weight>600</weight>
+			<style>italic</style>
+			<file>PT_Sans-Narrow-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans Narrow</family>
+			<weight>700</weight>
+			<style>normal</style>
+			<file>PT_Sans-Narrow-Bold.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans Narrow</family>
+			<weight>700</weight>
+			<style>italic</style>
+			<file>PT_Sans-Narrow-Bold.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans Narrow</family>
+			<weight>800</weight>
+			<style>normal</style>
+			<file>PT_Sans-Narrow-Bold.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans Narrow</family>
+			<weight>800</weight>
+			<style>italic</style>
+			<file>PT_Sans-Narrow-Bold.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans Narrow</family>
+			<weight>900</weight>
+			<style>normal</style>
+			<file>PT_Sans-Narrow-Bold.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans Narrow</family>
+			<weight>900</weight>
+			<style>italic</style>
+			<file>PT_Sans-Narrow-Bold.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans</family>
+			<weight>100</weight>
+			<style>normal</style>
+			<file>PT_Sans-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans</family>
+			<weight>100</weight>
+			<style>italic</style>
+			<file>PT_Sans-Italic.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans</family>
+			<weight>200</weight>
+			<style>normal</style>
+			<file>PT_Sans-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans</family>
+			<weight>200</weight>
+			<style>italic</style>
+			<file>PT_Sans-Italic.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans</family>
+			<weight>300</weight>
+			<style>normal</style>
+			<file>PT_Sans-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans</family>
+			<weight>300</weight>
+			<style>italic</style>
+			<file>PT_Sans-Italic.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans</family>
+			<weight>400</weight>
+			<style>normal</style>
+			<file>PT_Sans-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans</family>
+			<weight>400</weight>
+			<style>italic</style>
+			<file>PT_Sans-Italic.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans</family>
+			<weight>500</weight>
+			<style>normal</style>
+			<file>PT_Sans-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans</family>
+			<weight>500</weight>
+			<style>italic</style>
+			<file>PT_Sans-Italic.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans</family>
+			<weight>600</weight>
+			<style>normal</style>
+			<file>PT_Sans-Regular.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans</family>
+			<weight>600</weight>
+			<style>italic</style>
+			<file>PT_Sans-Italic.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans</family>
+			<weight>700</weight>
+			<style>normal</style>
+			<file>PT_Sans-Bold.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans</family>
+			<weight>700</weight>
+			<style>italic</style>
+			<file>PT_Sans-BoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans</family>
+			<weight>800</weight>
+			<style>normal</style>
+			<file>PT_Sans-Bold.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans</family>
+			<weight>800</weight>
+			<style>italic</style>
+			<file>PT_Sans-BoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans</family>
+			<weight>900</weight>
+			<style>normal</style>
+			<file>PT_Sans-Bold.ttf</file>
+		</font>
+		<font>
+			<family>PT Sans</family>
+			<weight>900</weight>
+			<style>italic</style>
+			<file>PT_Sans-BoldItalic.ttf</file>
+		</font>
+		<font>
+			<family>PT Mono</family>
+			<weight>100</weight>
+			<style>normal</style>
+			<file>PT_Mono.ttf</file>
+		</font>
+		<font>
+			<family>PT Mono</family>
+			<weight>100</weight>
+			<style>italic</style>
+			<file>PT_Mono.ttf</file>
+		</font>
+		<font>
+			<family>PT Mono</family>
+			<weight>200</weight>
+			<style>normal</style>
+			<file>PT_Mono.ttf</file>
+		</font>
+		<font>
+			<family>PT Mono</family>
+			<weight>200</weight>
+			<style>italic</style>
+			<file>PT_Mono.ttf</file>
+		</font>
+		<font>
+			<family>PT Mono</family>
+			<weight>300</weight>
+			<style>normal</style>
+			<file>PT_Mono.ttf</file>
+		</font>
+		<font>
+			<family>PT Mono</family>
+			<weight>300</weight>
+			<style>italic</style>
+			<file>PT_Mono.ttf</file>
+		</font>
+		<font>
+			<family>PT Mono</family>
+			<weight>400</weight>
+			<style>normal</style>
+			<file>PT_Mono.ttf</file>
+		</font>
+		<font>
+			<family>PT Mono</family>
+			<weight>400</weight>
+			<style>italic</style>
+			<file>PT_Mono.ttf</file>
+		</font>
+		<font>
+			<family>PT Mono</family>
+			<weight>500</weight>
+			<style>normal</style>
+			<file>PT_Mono.ttf</file>
+		</font>
+		<font>
+			<family>PT Mono</family>
+			<weight>500</weight>
+			<style>italic</style>
+			<file>PT_Mono.ttf</file>
+		</font>
+		<font>
+			<family>PT Mono</family>
+			<weight>600</weight>
+			<style>normal</style>
+			<file>PT_Mono.ttf</file>
+		</font>
+		<font>
+			<family>PT Mono</family>
+			<weight>600</weight>
+			<style>italic</style>
+			<file>PT_Mono.ttf</file>
+		</font>
+		<font>
+			<family>PT Mono</family>
+			<weight>700</weight>
+			<style>normal</style>
+			<file>PT_Mono.ttf</file>
+		</font>
+		<font>
+			<family>PT Mono</family>
+			<weight>700</weight>
+			<style>italic</style>
+			<file>PT_Mono.ttf</file>
+		</font>
+		<font>
+			<family>PT Mono</family>
+			<weight>800</weight>
+			<style>normal</style>
+			<file>PT_Mono.ttf</file>
+		</font>
+		<font>
+			<family>PT Mono</family>
+			<weight>800</weight>
+			<style>italic</style>
+			<file>PT_Mono.ttf</file>
+		</font>
+		<font>
+			<family>PT Mono</family>
+			<weight>900</weight>
+			<style>normal</style>
+			<file>PT_Mono.ttf</file>
+		</font>
+		<font>
+			<family>PT Mono</family>
+			<weight>900</weight>
+			<style>italic</style>
+			<file>PT_Mono.ttf</file>
+		</font>
+	</fonts>
+</module>
